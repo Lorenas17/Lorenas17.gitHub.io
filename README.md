@@ -1,2 +1,2 @@
-# Lorenas17.gitHub.io
+# Web Design
 A repository to save my web work from school.
